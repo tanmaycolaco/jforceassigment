@@ -1,0 +1,60 @@
+body{
+    background-color:#f1f1f1;
+}
+.form-box-wrapper{
+    margin-top:15%
+}
+
+.form-box-wrapper.register{
+    margin-top:8%;
+}
+
+.form-box-wrapper .message-wrapper{
+    margin-bottom:20px;
+    background-color:white;
+    padding:12px;
+    color: #444;
+    font-size: 14px;
+    border-left: 4px solid #00a0d2;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+
+.form-box-wrapper .message-wrapper.error{
+    border-left-color:red;
+}
+
+.form-box-wrapper .form-input-wrapper{
+    margin-top: 20px;
+    margin-left: 0;
+    padding: 26px 24px 46px;
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,.13);
+}
+
+.form-box-wrapper .form-input-wrapper label{
+    color: #72777c;
+    font-size: 14px;
+    font-weight:400;
+}
+
+.form-box-wrapper .form-input-wrapper input[type=text],input[type=password] {
+    background: #fbfbfb;
+
+}
+
+.form-box-wrapper .form-input-wrapper .btn
+{
+        background: #00aadc;
+
+    color: #fff;
+}
+
+.form-box-wrapper .menu-wrapper{
+    margin-top:70px;
+}
+
+.form-box-wrapper .menu-text{
+    padding-left:10px;
+    padding-right:10px;
+    color: #0073aa;
+}
